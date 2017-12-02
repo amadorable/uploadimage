@@ -8,9 +8,9 @@ require 'Api.php';
 
 
 \Cloudinary::config(array( 
-  "cloud_name" => "dnuraq8oa", 
-  "api_key" => "274545435744652", 
-  "api_secret" => "jflXJqU3PYSSqtRUAoVz3F1D4dU" 
+  "cloud_name" => "adora", 
+  "api_key" => "728253569836753", 
+  "api_secret" => "aodLRjQ3Cv3ELC7xdPHkZZ5bokg" 
 ));
 
 $target_dir = "uploads/";
